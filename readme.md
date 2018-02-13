@@ -1,7 +1,7 @@
-1 ##Clone this Repo
-2 ## Install Dependencies
-3 ## Set database name to -todo- in .env
-4 ## Run php artisan migrate
+## Clone this Repo
+## Install Dependencies by running composer install
+## Set database name to -todo- in .env
+## Run php artisan migrate
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
